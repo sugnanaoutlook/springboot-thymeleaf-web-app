@@ -8,5 +8,6 @@ public class SpringbootThymeleafWebAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootThymeleafWebAppApplication.class, args);
+		System.out.println("SpringbootThymeleafWebAppApplication");
 	}
 }
